@@ -1,0 +1,93 @@
+2026-06-22 21:06:25 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:06:25 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-20, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 21:06:25 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:06:28 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260620/21/SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv (443997888 bytes) in 3.29s
+2026-06-22 21:28:27 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:28:27 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-20, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 21:28:27 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:28:31 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260620/21/SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv (443997888 bytes) in 3.30s
+2026-06-22 21:41:05 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:41:05 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 21:41:05 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:41:05 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:41:05 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:48:26 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:48:26 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:48:35 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:48:39 | INFO | test_logger | info msg
+2026-06-22 21:48:39 | WARNING | test_logger | warn msg
+2026-06-22 21:48:39 | ERROR | test_logger | err msg
+2026-06-22 21:48:39 | INFO | test_logger | info msg
+2026-06-22 21:48:39 | WARNING | test_logger | warn msg
+2026-06-22 21:48:39 | ERROR | test_logger | err msg
+2026-06-22 21:48:39 | INFO | test_logger | should not appear
+2026-06-22 21:48:39 | ERROR | test_logger | should appear
+2026-06-22 21:48:44 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:48:44 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:50:20 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:50:20 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 21:50:21 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:50:21 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:50:21 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:51:30 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CANTIDAD_FD_CLIENTEADMIN_SIGLA_20260515115951.csv
+2026-06-22 21:51:30 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:51:30 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:51:30 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:51:39 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 21:51:39 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:51:39 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:51:39 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:12 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CATALOGO_PARTICULARADMIN_SIGLA_20260515114847 (1).csv
+2026-06-22 21:53:12 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:53:12 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:12 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:23 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CANTIDAD_FD_CLIENTEADMIN_SIGLA_20260515115951.csv
+2026-06-22 21:53:24 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:53:24 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:24 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:35 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_Reporte_Clien_Vigen_ActADMIN_SIGLA_20260515114822.csv
+2026-06-22 21:53:35 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:53:35 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:53:35 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/21
+2026-06-22 21:55:14 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:55:14 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 21:56:06 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 21:56:06 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:11:09 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 22:11:09 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CATALOGO_PARTICULARADMIN_SIGLA_20260515114847 (1).csv
+2026-06-22 22:11:09 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:11:09 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:11:09 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:11:56 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CATALOGO_PARTICULARADMIN_SIGLA_20260515114847 (1).csv
+2026-06-22 22:11:56 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:11:56 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:11:56 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:14:14 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=SR2104000_CANTIDAD_FD_CLIENTEADMIN_SIGLA_20260515115951.csv
+2026-06-22 22:14:14 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:14:14 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:14:14 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:16:06 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=dockerfile_spring.pdf
+2026-06-22 22:16:06 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:16:06 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:16:06 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:17:42 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-22, file=dockerfile_spring.pdf
+2026-06-22 22:17:43 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:17:43 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:17:43 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260622/22
+2026-06-22 22:19:55 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-21, file=Boletín Mensual # 4.pdf
+2026-06-22 22:19:55 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:19:55 | ERROR | sftp.exceptions | SFTPDirectoryError: Failed to create directory /upload/REPOSITORIO/20260621/22
+2026-06-22 22:19:55 | ERROR | solid.upload | SFTP directory error: Failed to create directory /upload/REPOSITORIO/20260621/22
+2026-06-22 22:24:15 | INFO | sftp.config | SFTPSettings loaded: host=localhost, port=4223, user=sftpuser, upload_dir=/upload
+2026-06-22 22:24:15 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-21, file=Boletín Mensual # 4.pdf
+2026-06-22 22:24:15 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:24:15 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260621/22/Boletín Mensual # 4.pdf (4712477 bytes) in 0.10s
+2026-06-22 22:24:45 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-21, file=dockerfile_spring.pdf
+2026-06-22 22:24:45 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:24:45 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260621/22/dockerfile_spring.pdf (22692430 bytes) in 0.20s
+2026-06-22 22:25:21 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-21, file=SR2104000_CATALOGO_PARTICULARADMIN_SIGLA_20260515114847 (1).csv
+2026-06-22 22:25:21 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:25:21 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260621/22/SR2104000_CATALOGO_PARTICULARADMIN_SIGLA_20260515114847 (1).csv (130677960 bytes) in 0.75s
+2026-06-22 22:25:31 | INFO | solid.upload | Starting upload: type=REPOSITORIO, date=2026-06-21, file=SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv
+2026-06-22 22:25:31 | INFO | sftp.paramiko_client | SFTP connected to localhost:4223 (window=64MB, chunk=16MB)
+2026-06-22 22:25:34 | INFO | solid.upload | Upload successful: /upload/REPOSITORIO/20260621/22/SR2104000_VIGENCIA_CONTRATOADMIN_SIGLA_20260515114823.csv (443997888 bytes) in 2.41s
